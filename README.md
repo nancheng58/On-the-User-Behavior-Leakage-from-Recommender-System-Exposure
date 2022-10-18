@@ -1,5 +1,5 @@
 # On the User Behavior Leakage from Recommender System Exposure
-This is a PyTorch implementation for the paper:
+This is a PyTorch implementation for the [paper](https://arxiv.org/pdf/2210.08435.pdf):
 > Xin Xin, Jiyuan Yang, Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen,
 and Zhaochun Ren. On the User Behavior Leakage from Recommender System Exposure
 
