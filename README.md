@@ -43,3 +43,20 @@ python run_protection.py
 ```bash
 python run_protection_acc.py
 ```
+# Reference
+```
+@article{10.1145/3568954,
+author = {Xin, Xin and Yang, Jiyuan and Wang, Hanbing and Ma, Jun and Ren, Pengjie and Luo, Hengliang and Shi, Xinlei and Chen, Zhumin and Ren, Zhaochun},
+title = {On the User Behavior Leakage from Recommender System Exposure},
+year = {2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1046-8188},
+url = {https://doi.org/10.1145/3568954},
+doi = {10.1145/3568954},
+note = {Just Accepted},
+journal = {ACM Trans. Inf. Syst.},
+month = {oct},
+keywords = {Privacy Leakage, Privacy Protection, Information Security, Recommender System}
+}
+```
