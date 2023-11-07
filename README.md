@@ -1,8 +1,8 @@
 # On the User Behavior Leakage from Recommender System Exposure
 This is a PyTorch implementation for the [paper](https://arxiv.org/pdf/2210.08435.pdf):
-> Xin Xin, Jiyuan Yang, Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen,
+> Xin Xin*, Jiyuan Yang* (co-first authors), Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen,
 and Zhaochun Ren. On the User Behavior Leakage from Recommender System Exposure
-
+*
 # Overview
 
 In this paper, we investigate the problem of user behavior leakage in the field of recommender systems. We show that the privacy sensitive user past behavior data can be inferred through the modeling of system exposure. In other words, _one can infer which items the **user** have clicked just from the observation of current **system** exposure for this user_. Given the fact that system exposure data could be widely accessed from a relatively larger scope, we believe that the user past behavior privacy has a high risk of leakage in recommender systems. 
